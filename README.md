@@ -8,4 +8,4 @@ Built with
 -CSS
 
 
-Site URL https://github.com/jaysmith13/JS-portfolio
+Site URL https://jaysmith13.github.io/Horiseon-Challenge-1/
