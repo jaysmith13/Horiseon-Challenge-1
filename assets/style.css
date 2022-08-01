@@ -1,3 +1,4 @@
+/* Universal*/
 *{
     padding: 0;
     margin: 0;
@@ -8,6 +9,7 @@
     background-color: #d9dcd6;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+/*header section*/
 
 .header{
     padding: 20px;
@@ -36,7 +38,7 @@
     display:inline-block;
     margin-left: 25px;
 }
-
+/*/end header section */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -182,6 +184,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*footer*/
 .footer{
     padding: 30px;
     clear: both;
