@@ -1,7 +1,7 @@
 # Horiseon-Challenge-1
 
 ## Purpose 
-A website that offers online services. 
+A website that offers online services provided by the Horiseon marketing company.
 
 ## Technologies Used
 
